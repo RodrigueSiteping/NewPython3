@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.condaPath": "C:\\Users\\rodri\\anaconda3\\Scripts\\conda-script.py",
+		"workbench.colorTheme": "Visual Studio Light",
+    	"workbench.iconTheme": "material-icon-theme",
+    	"files.autoSave": "afterDelay"
+	}
+}
