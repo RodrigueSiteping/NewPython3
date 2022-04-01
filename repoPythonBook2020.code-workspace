@@ -8,6 +8,9 @@
 		"python.condaPath": "C:\\Users\\rodri\\anaconda3\\Scripts\\conda-script.py",
 		"workbench.colorTheme": "Visual Studio Light",
     	"workbench.iconTheme": "material-icon-theme",
-    	"files.autoSave": "afterDelay"
+		"files.autoSave": "afterDelay",
+		"python.linting.pydocstyleEnabled": true,
+		"python.linting.pycodestyleEnabled": true,
+		"python.linting.pylintEnabled": true
 	}
 }
