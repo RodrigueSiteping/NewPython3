@@ -9,8 +9,8 @@
 		"workbench.colorTheme": "Visual Studio Light",
     	"workbench.iconTheme": "material-icon-theme",
 		"files.autoSave": "afterDelay",
-		"python.linting.pydocstyleEnabled": true,
+		"python.linting.pydocstyleEnabled": false,
 		"python.linting.pycodestyleEnabled": true,
-		"python.linting.pylintEnabled": true
+		"python.linting.pylintEnabled": false
 	}
 }
